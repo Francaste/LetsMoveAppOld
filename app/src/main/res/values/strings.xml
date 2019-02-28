@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Let\'s MoveApp</string>
+    <string name="button_myRides">My Rides</string>
+    <string name="button_newRide">New Ride</string>
+    <string name="button_profile">Profile</string>
+    <string name="activity_name_profile">Profile</string>
+    <string name="activity_name_newride">New Ride</string>
+    <string name="activity_name_myrides">My Rides</string>
 </resources>

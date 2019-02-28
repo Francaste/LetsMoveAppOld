@@ -9,6 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity
+            android:name=".Profile"
+            android:label="@string/activity_name_profile"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".NewRide"
+            android:label="@string/activity_name_newride"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".MyRides"
+            android:label="@string/activity_name_myrides"
+            android:parentActivityName=".MainActivity"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
