@@ -8,7 +8,7 @@
 
     <Button
         android:id="@+id/button_myRides"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:onClick="startActivityMyRides"
@@ -20,11 +20,9 @@
 
     <Button
         android:id="@+id/button_newRide"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:layout_marginEnd="8dp"
         android:onClick="startActivityNewRides"
         android:text="@string/button_newRide"
         android:textSize="20sp"
@@ -34,7 +32,7 @@
 
     <Button
         android:id="@+id/button_profile"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:onClick="startActivityProfile"
