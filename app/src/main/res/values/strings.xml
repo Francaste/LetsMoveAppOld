@@ -6,4 +6,6 @@
     <string name="activity_name_profile">Profile</string>
     <string name="activity_name_newride">New Ride</string>
     <string name="activity_name_myrides">My Rides</string>
+    <string name="textView_nameProfile">Nombre</string>
+    <string name="button_myCars">My Cars</string>
 </resources>

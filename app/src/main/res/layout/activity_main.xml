@@ -37,7 +37,7 @@
         android:layout_marginTop="8dp"
         android:onClick="startActivityProfile"
         android:text="@string/button_profile"
-        android:textSize="20sp"
+        android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button_newRide" />
