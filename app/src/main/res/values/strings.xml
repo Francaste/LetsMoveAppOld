@@ -8,4 +8,10 @@
     <string name="activity_name_myrides">My Rides</string>
     <string name="textView_nameProfile">Nombre</string>
     <string name="button_myCars">My Cars</string>
+    <string name="origen">Origen</string>
+    <string name="destino">Destino</string>
+    <string-array name="coche">
+        <item>Batmovil</item>
+        <item>Coche fantastico</item>
+    </string-array>
 </resources>
